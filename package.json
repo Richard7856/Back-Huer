@@ -1,7 +1,7 @@
 {
-  "name": "back-rent",
+  "name": "back-huer",
   "version": "1.0.0",
-  "description": "Back rent ",
+  "description": "Back huer ",
   "main": "index.js",
   "scripts": {
     "test": "set NODE_ENV=test && jest --detectOpenHandles",
